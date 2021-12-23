@@ -3,8 +3,11 @@ Simple Streamlit App
 
 Python modules required 
 pandas==1.1.4
+
 streamlit==0.78.0
+
 matplotlib==3.3.3
+
 streamlit==0.78.0
 
 Once installed. 
