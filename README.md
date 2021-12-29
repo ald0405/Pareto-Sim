@@ -14,10 +14,10 @@ matplotlib==3.3.3
 
 streamlit==0.78.0
 
-Once installed. 
+Once script is downloaded and aforementioned modules installed: 
 
-Open command line in directory where ParetoSimulator.py is stored.
+[1] Open command line in directory where ParetoSimulator.py is stored.
 
-Use commands "streamlit run ParetoSimulator.py"
+[2] Use commands "streamlit run ParetoSimulator.py"
 
-A window will open in your default web browser 
+[3] A window will open in your default web browser 
