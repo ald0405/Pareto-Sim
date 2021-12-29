@@ -2,8 +2,8 @@
 
 ## Introduction
 A simple Python Streamlit App. 
-This app provides a simple walk through to show how Pareto Charts and created and interpreted. This was created for NHS England to train non-technical
-staff in how to interpret the charts. 
+This app provides a simple walk through to show how Pareto Charts are created are interpreted. This was created for NHS England to train non-technical
+staff in how to interpret the charts as part of quality control
 
 
 ## Python modules required 
