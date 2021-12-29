@@ -16,8 +16,8 @@ streamlit==0.78.0
 
 Once script is downloaded and aforementioned modules installed: 
 
-[1] Open command line in directory where ParetoSimulator.py is stored.
+* Open command line in directory where ParetoSimulator.py is stored.
 
-[2] Use commands "streamlit run ParetoSimulator.py"
+* Use commands "streamlit run ParetoSimulator.py"
 
-[3] A window will open in your default web browser 
+* A window will open in your default web browser 
